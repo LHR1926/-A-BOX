@@ -1,5 +1,5 @@
 #pragma warning(disable : 4996)
-#include <stdio.h>
+#include <stdio.h
 #include <string.h>
 
 char plain[100], cry[100];
