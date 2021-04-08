@@ -15,6 +15,6 @@ public:
             }            
         }
         ans += X - t;
-        return ans;
+        return a   ns;
     }
 };
