@@ -4,7 +4,7 @@ public:
         int ans = 0;
         int t = Y;
         while (t > X){
-            if ((t &1) == 0){
+            if ((t & 1) == 0){
                 ans += 1;
                 t = t >> 1 ;               
             }
