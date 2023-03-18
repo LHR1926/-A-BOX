@@ -1,4 +1,4 @@
-class Solutin {
+class Solution {
 public:
     int brokenCalc(int X, int Y) {
         int ans = 0;
